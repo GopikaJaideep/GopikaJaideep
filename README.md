@@ -1,4 +1,9 @@
 # Hi, I'm Gopika 👋
+AI/ML Engineer in Melbourne. I build LLM agents, RAG systems and machine learning models for areas where a wrong answer really matters.
+
+Portfolio: https://gopika-jaideep.netlify.app/  
+About me: https://about.me/gopika  
+LinkedIn: https://www.linkedin.com/in/gopikajaideep
 
 🎓 Master's in Artificial Intelligence, Monash University  
 🤖 Interested in Artificial Intelligence, Machine Learning, and Computer Vision  
